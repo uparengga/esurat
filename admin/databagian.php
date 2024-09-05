@@ -52,7 +52,7 @@ include "login/ceksession.php";
           <div class="">
             <div class="page-title">
               <div class="title_right">
-                <h2> > <small>Data User</small></h2>
+                <h2> > <small>Data User YULIA</small></h2>
               </div>
             </div>
 
